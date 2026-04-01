@@ -6,6 +6,8 @@
 </picture>
 
 # Binder
+
+[![SafeSkill 20/100](https://img.shields.io/badge/SafeSkill-20%2F100_Blocked-red)](https://safeskill.dev/scan/mpazik-binder)
 ### Headless Knowledge Base for You and Your Agents
 
 **Local-first** knowledge base with **bidirectional Markdown sync** — edit in any coding editor, query via **CLI** and **MCP**, share with AI agents.
